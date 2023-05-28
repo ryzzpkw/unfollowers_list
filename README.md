@@ -1,5 +1,11 @@
 # unfollowers_list
 Check unfollowers on my instagram account.
-Please do not delete the folder named "photo", otherwise the .exe will not run and generate an error.
+With this program, you can list the users you follow on Instagram but do not follow you.
+You can easily perform your transactions with its simple interface.
+You can enter your Instagram username in the "email or username" box, your Instagram password in the "password" box, and finally the Instagram username of a user you want in the "username" box. After clicking the start button, the listing will start.
+Make sure you type your username and password correctly, otherwise your transaction will not be processed.
+Processing time may vary depending on the number of followers and following.
 Dont log into your Instagram account frequently during the day, otherwise Instagram will detect it as spam and ban your account.
-After pressing the "Start" button, the process will start and will be displayed on the screen after the process is finished, please do not close the screen until the process is finished.
+Please do not delete the folder named "photo", otherwise the .exe will not run and generate an error.
+
+
